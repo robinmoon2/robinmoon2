@@ -8,7 +8,7 @@ I am a engeneering student in second year at ESILV at LaDefense-Paris. I mostly 
 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [robinlhyver@gmail.com](mailto:robinlhyver@gmail.com)
-* 🚀  I'm currently working on [My word game project](http://github.com/robinmoon2/Word-game.git)
+* 🚀  I'm currently working on [My word game project](http://github.com/robinmoon2/Word-game.git) and on the testing of the [Console App Visuals Library](https://github.com/MorganKryze/ConsoleAppVisuals)
 * 🧠  I'm learning Arduino, Robotics, Flutter, Optimization of coding habits
 * ⚡  I love saucisson
 
