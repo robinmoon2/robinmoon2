@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robin L'hyver
 =====================================================================================================================================
 
-Engeneering Student ( Second Year )
+Engineering Student ( Third Year )
 -----------------------------------
 
 I am a engeneering student in second year at ESILV at LaDefense-Paris. I mostly code in C# ( with school ) but i'm also learning arduino and flutter.
