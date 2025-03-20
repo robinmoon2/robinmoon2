@@ -8,9 +8,9 @@ I am a engeneering student in second year at ESILV at LaDefense-Paris. I mostly 
 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [robinlhyver@gmail.com](mailto:robinlhyver@gmail.com)
-* 🚀  I'm currently working on [My word game project](http://github.com/robinmoon2/Word-game.git) and on the testing of the [Console App Visuals Library](https://github.com/MorganKryze/ConsoleAppVisuals)
-* 🧠  I'm learning Arduino, Robotics, Flutter, Optimization of coding habits
-* ⚡  Coffee is my life
+* 🚀  I'm currently working on [The travelers project](https://github.com/THE-TRAVELERS/Embed-Control) and on upgrade C++ skills and the [google test mocker](https://google.github.io/googletest/gmock_for_dummies.html) in embedded systems
+* 🧠  I'm learning C++, Robotics, C, Optimization of coding habits
+* ⚡  Coffee is great 
 
 ### Skills
 
