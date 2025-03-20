@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2 years<br>📚 I'm currently learning C++ and C ( for robotics ) <br>🎯 Goals: learn robotics and embedded systems<br>🎲 Fun fact: I love coffee and bugs</p>
+<p align="left">✨ Creating bugs since 2 years<br>📚 I'm currently learning C++ and C ( for robotics ) <br>🎯 Goals: learn robotics and embedded systems<br>🚀  I'm currently working on [The travelers project](https://github.com/THE-TRAVELERS/Embed-Control) and on upgrade C++ skills and the [google test mocker](https://google.github.io/googletest/gmock_for_dummies.html) in embedded systems<br><br>🎲 Fun fact: I love coffee and bugs</p>
 
 ###
 
@@ -29,10 +29,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/robinmoon2/robinmoon2/output/snake.svg" alt="Snake animation" />
 
 ###
 
