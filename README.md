@@ -1,4 +1,4 @@
-<h1>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robin L'hyver>/h1>
+<h1>Hi ![]👋My name is Robin L'hyver>/h1>
 <h3 align="center">A student in engeneering school in France who have interest for embedded system / robotics</h3>
 
 - 🔭 I’m currently working on [Travelers](http://github.com/robinmoon2/Word-game.git)
